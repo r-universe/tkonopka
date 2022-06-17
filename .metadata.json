@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ksharp",
+    "oncran": true
+  },
+  {
+    "package": "Rcssplot",
+    "oncran": true
+  },
+  {
+    "package": "umap",
+    "oncran": true
+  }
+]
