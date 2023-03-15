@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "Rcssplot",
+    "package": "umap",
     "oncran": true
   },
   {
-    "package": "umap",
+    "package": "Rcssplot",
     "oncran": true
   }
 ]

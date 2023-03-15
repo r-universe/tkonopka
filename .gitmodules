@@ -8,13 +8,13 @@
 	url = https://github.com/tkonopka/ksharp
 	shallow = true
 	registered = true
-[submodule "Rcssplot"]
-	path = Rcssplot
-	url = https://github.com/tkonopka/rcssplot
-	shallow = true
-	registered = true
 [submodule "umap"]
 	path = umap
 	url = https://github.com/tkonopka/umap
+	shallow = true
+	registered = true
+[submodule "Rcssplot"]
+	path = Rcssplot
+	url = https://github.com/tkonopka/rcssplot
 	shallow = true
 	registered = true
