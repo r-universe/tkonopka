@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ksharp"]
-	path = ksharp
-	url = https://github.com/tkonopka/ksharp
 [submodule "Rcssplot"]
 	path = Rcssplot
 	url = https://github.com/tkonopka/rcssplot
+[submodule "ksharp"]
+	path = ksharp
+	url = https://github.com/tkonopka/ksharp
 [submodule "umap"]
 	path = umap
 	url = https://github.com/tkonopka/umap
